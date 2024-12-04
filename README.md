@@ -1,2 +1,2 @@
-# AOC1
- Advent of Code
+# AOC
+ Advent of Code challenge
